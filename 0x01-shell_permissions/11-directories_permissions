@@ -1,2 +1,2 @@
 #!/bin/bash
-chomd u+x hi
+chomd a+x */
