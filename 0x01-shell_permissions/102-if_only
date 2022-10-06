@@ -1,2 +1,2 @@
 #!/bin/bash
-hello to betty this user is owned by the user guillaume.
+chown --from=guillaume betty hello
